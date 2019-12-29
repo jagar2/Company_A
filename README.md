@@ -1,6 +1,4 @@
-# Company_A
-Company A data
-
+# Company A
 
 **key business metrics**
 
