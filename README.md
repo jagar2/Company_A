@@ -1,108 +1,19 @@
-# Company_A
-Company A data
+# Company A
 
+**key business metrics**
 
-
-Inputs
-
-* Air consumption
-* 
-* Gas consumption
-* 
-* Exhaust gas
-* 
-* Spee
-* 
-* Pressure
-* 
-* Kiln Feed
-* 
-* Dust Addition
-* 
-* Moisture Belt
-* 
-* Moisture CLC
-* 
-* Additive B
-* 
-* Additive A
-* 
-* CLC CaO
-* 
-* CLC Na2O
-
-Efficiency
-
-Power consumption
-
-Gaszähler Ofen
-
-Pyrometer
-
-Temperture
-
-Inner Temperature
-
-End Temperature
-
-Input Temperature
-
-Exhaust Gas Temperature
-
-Dust Collection
-
-CLC B2O3
-
-CLC F2O3
-
-CLC MgO
-
-CLC SiO2
-
-CLC TiO2
-
-pH
-
-pH value CLC
-
-CO2
-
-CO
-
-B2O3 Dust
-
-Na2O Dust
-
- 
-
- 
-
-Outputs
-
- 
-
-* Surface Area
-
-* Compacite
-
-* D50
-
-- D90
-
-+0.063 nm
-
-Loose Bulk Density
-
-CaO
-
-- B2O3
-
-Fe2O3
-
-MgO
-
-SiO2
-
-- Na2O
-
-TiO2
+| Input      | Output |
+| ----------- | ----------- |
+| **Air consumption**|**Surface Area**|
+| **Gas consumption**|**Compacite**|
+| **Exhaust gas**|**D50**|
+| **Speed**|D90|
+| **Pressure**|B2O3|
+| **Kiln Feed**|Na2O|
+| **Dust Addition**| |
+| Moisture Beltweigher| |
+| Moisture CLC| |
+| Additive B| |
+| Additive A (C?)| |
+| CLC CaO| |
+| CLC Na2O| |
