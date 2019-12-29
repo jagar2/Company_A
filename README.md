@@ -6,13 +6,13 @@ Company A data
 
 | Input      | Output |
 | ----------- | ----------- |
-| <span style="color:red">**Air consumption**</span>|<span style="color:red">Surface Area**</span>|
-| <span style="color:red">**Gas consumption**</span>|<span style="color:red">Compacite**</span>|
-| <span style="color:red">**Exhaust gas**</span>|<span style="color:red">D50</span>|
-| <span style="color:red">**Speed**</span>|D90|
-| <span style="color:red">**Pressure**</span>|B2O3|
-| <span style="color:red">**Kiln Feed**</span>|Na2O|
-| <span style="color:red">**Dust Addition**</span>| |
+| **Air consumption**|**Surface Area**|
+| **Gas consumption**|**Compacite**|
+| **Exhaust gas**|**D50**|
+| **Speed**|D90|
+| **Pressure**|B2O3|
+| **Kiln Feed**|Na2O|
+| **Dust Addition**| |
 | Moisture Beltweigher| |
 | Moisture CLC| |
 | Additive B| |
